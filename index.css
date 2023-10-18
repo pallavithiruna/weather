@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(185, 180, 180);
+    margin-top:40px;
+    padding:10px;
+    width: 1000px;
+}
+.row{
+    padding:0px;
+}
+.line1{
+    text-align:center ;
+}
+.t1{
+    text-align: center;
+}
